@@ -21,11 +21,11 @@ const upload = multer({ storage: storage });
 
 router.route('/menu').get(controller.getMenu);
 
-router
-  .route('/menuItem/:id')
-  .get(controller.getMenuItem)
-  .post(upload.single('file'), controller.postMenuItem)
-  .patch(controller.editMenuItem)
-  .delete(controller.deleteMenuItem);
+// router
+//   .route('/menuItem/:id')
+//   .get(controller.getMenuItem)
+//   .post(upload.single('file'), controller.postMenuItem)
+//   .patch(controller.editMenuItem)
+//   .delete(controller.deleteMenuItem);
 
 module.exports = router;

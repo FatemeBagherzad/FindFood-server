@@ -1,0 +1,242 @@
+[
+  {
+    "category": "Cold Dishes",
+    "name": "Jinseviche",
+    "Ingredient": "Sake, tuna tataki, tako, ebi, mango, cucumber, red onion, cilantro, wakamezu.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Jinseviche.png",
+    "idMeal": "52959"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Kadoma Tuna",
+    "Ingredient": "Spicy tuna tartare, tempura rice cake, avocado, jalapeno, tobiko, sesame seeds, eel sauce.",
+    "price": "17.0 USD",
+    "mealThumb": "http://localhost:8888/Kadoma-Tuna.jpg",
+    "idMeal": "52819"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Poka",
+    "Ingredient": "Tuna, avocado, cucumber, tomato, cilantro, scallions, spicy sesame, ponzu sauce, served on endive.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Poka.jpg",
+    "idMeal": "52944"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Komatsu",
+    "Ingredient": "Tuna, avocado, asparagus, mint, yamagobo, cithai sauce, wrapped with cucumber.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Komatsu.png",
+    "idMeal": "53043"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Yellowtail Serrano",
+    "Ingredient": "Gluten free. Hamachi, serrano, cilantro, yuzu soy.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Yellowtail-Serrano.jpg",
+    "idMeal": "52802"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Hamachi Fig",
+    "Ingredient": "Hamachi sashimi lightly tossed in a fig sauce with rum raisins, and serrano peppers then topped with fried lotus root.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Hamachi-Fig.jpg",
+    "idMeal": "53079"
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Maguro Ringo",
+    "Ingredient": "Maguro tossed in anchovy sauce. served with sliced honey crisp apples, and garnished with goat cheese.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Maguro-Ringo",
+    "idMeal": "52918"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Grouper Buns",
+    "Ingredient": "Tempura grouper, Asian slaw, served with crispy lotus root.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Grouper-Buns.jpg",
+    "idMeal": "52764"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Hamachi Kama",
+    "Ingredient": "Lightly seasoned hamachi collar, baked and broiled, served with ponzu.",
+    "price": "21.0 USD",
+    "mealThumb": "http://localhost:8888/Hamachi-Kama.jpg",
+    "idMeal": "53041"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Beef Sliders",
+    "Ingredient": "Lettuce, mayo, tonkatsu sauce, served with tempura sweet potato fries.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Beef-Sliders.jpg",
+    "idMeal": "52887"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Beef Wrapped Asparagus",
+    "Ingredient": "Kobe beef, asparagus, Japanese BBQ sauce.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Beef-Wrapped-Asparagus.jpg",
+    "idMeal": "52946"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Tebasaki Wings",
+    "Ingredient": "Twice fried wings tossed in a savory sesame ginger sauce.",
+    "price": "13.0 USD",
+    "mealThumb": "http://localhost:8888/Tebasaki-Wings.png",
+    "idMeal": "52821"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Tochiru Buns",
+    "Ingredient": "Kobe flank steak, iceberg lettuce, mayo, caramalized onions, and served with crispy lotus root.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Tochiru-Buns.png",
+    "idMeal": "52777"
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Nikko",
+    "Ingredient": "Smoked Salmon, unagi, tamago, asparagus, avocado, cream cheese, tempura fried, topped with eel sauce.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Nikko.jpg",
+    "idMeal": "53048"
+  },
+  {
+    "category": "Sushi",
+    "name": "Hatsu",
+    "Ingredient": "Beef, hot sesame, olive oil, ginger, avocado, cucumber scallions, cilantro, topped with Japanese bbq sauce and sriracha.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Hatsu.jpg",
+    "idMeal": "53051"
+  },
+  {
+    "category": "Sushi",
+    "name": "Jarijari",
+    "Ingredient": "Tempura shrimp, kani, avocado, cucumber, yamagobo, tempura flakes, eel sauce.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Jarijari.jpg",
+    "idMeal": "53045"
+  },
+  {
+    "category": "Sushi",
+    "name": "Jinsei Special",
+    "Ingredient": "Maguro, hamachi, masago, jalapeno, cilantro, cucumber, avocado.",
+    "price": "15.0 USD",
+    "mealThumb": "http://localhost:8888/Jinsei-Special.png",
+    "idMeal": "52809"
+  },
+  {
+    "category": "Sushi",
+    "name": "Lobster",
+    "Ingredient": "Tempura lobster, masago, tempura asparagus, cucumber, avocado, eel sauce.",
+    "price": "19.0 USD",
+    "mealThumb": "http://localhost:8888/Lobster.jpg",
+    "idMeal": "52960"
+  },
+  {
+    "category": "Sushi",
+    "name": "Shachihoko",
+    "Ingredient": "Tempura shrimp, kani, avocado, cucumber, yamagobo, unagi, tobiko, eel sauce.",
+    "price": "17.0 USD",
+    "mealThumb": "http://localhost:8888/Shachihoko.jpg",
+    "idMeal": "52823"
+  },
+  {
+    "category": "Sushi",
+    "name": "Spicy Hotate",
+    "Ingredient": "Spicy scallop, avocado, crab salad, tobiko, tempura flakes, eel sauce, sriracha.",
+    "price": "17.0 USD",
+    "mealThumb": "http://localhost:8888/Spicy-Hotate.png",
+    "idMeal": "52936"
+  },
+  {
+    "category": "Sushi",
+    "name": "Suteki",
+    "Ingredient": "Smoked salmon, avocado, cream cheese, honey crisp apple, squid ink tobiko, soy-mirin.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Suteki.png",
+    "idMeal": "52836"
+  },
+  {
+    "category": "Sushi",
+    "name": "Bangkok",
+    "Ingredient": "Maguro, hamachi, jalapeno, cilantro, avocado, potato matchsticks, sweet and spicy Thai sauce.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Bangkok.jpg",
+    "idMeal": "52953"
+  },
+  {
+    "category": "Sushi",
+    "name": "Bubblegum",
+    "Ingredient": "Tempura shrimp, maguro, ebi, avocado, wasabi aioli, sriracha.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Bubblegum.jpg",
+    "idMeal": "53023"
+  },
+  {
+    "category": "Sushi",
+    "name": "Ginger Albacore",
+    "Ingredient": "Maguro, hamachi, jalapeno, cilantro, topped with avocado and ginger albacore, scallions, ponzu sauce.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Ginger-Albacore.png",
+    "idMeal": "53040"
+  },
+  {
+    "category": "Sushi",
+    "name": "Hamajiku",
+    "Ingredient": "Hamachi, avocado, cucumber, rum raisins, crispy lotus root, fig sauce, serrano.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Hamajiku.png",
+    "idMeal": "53065"
+  },
+  {
+    "category": "Sushi",
+    "name": "Island",
+    "Ingredient": "Japanese red snapper, avocado, asparagus, mango, wasabi tobiko, sriracha",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Island.png",
+    "idMeal": "52882"
+  },
+  {
+    "category": "Sushi",
+    "name": "Kiiro",
+    "Ingredient": "Salmon, avocado, cucumber, topped with octopus, squid, golden tobiko, was vice sauce",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Kiiro.png",
+    "idMeal": "52852"
+  },
+  {
+    "category": "Sushi",
+    "name": "Red Dragon",
+    "Ingredient": "Spicy tuna tartare, tuna tataki, cucumber, scallions, sesame dressing",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Red-Dragon.png",
+    "idMeal": "52852"
+  },
+  {
+    "category": "Sushi",
+    "name": "Red Spider",
+    "Ingredient": "Tempura soft shell crab, tobiko, cucumber, avocado, eel sauce.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Red-Spider.jpg",
+    "idMeal": "52852"
+  },
+  {
+    "category": "Sushi",
+    "name": "Spiro Roll",
+    "Ingredient": "Spicy tuna tartare, sake, tempura asparagus, avocado, spicy aioli, chili powder.",
+    "price": "16.0 USD",
+    "mealThumb": "http://localhost:8888/Spiro-Roll.png",
+    "idMeal": "52852"
+  }
+]

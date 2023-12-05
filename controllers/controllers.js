@@ -7,7 +7,7 @@ const menu = JSON.parse(
 );
 
 exports.getMenu = (req, res) => {
-  console.log(req.requestTime);
+  // console.log(req.requestTime);
   res.status(200).json(menu);
 };
 

@@ -18,7 +18,6 @@ const storage = multer.diskStorage({
   },
 });
 const upload = multer({ storage: storage });
-
 router.route('/menu').get(controller.getMenu);
 router.route('/filteredMenu').post(controller.filter);
 

@@ -5,7 +5,7 @@ const router = require('./routers/router');
 const app = express();
 const path = require('path');
 
-console.log(__dirname);
+// console.log(__dirname);
 //MiddleWares
 if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
